@@ -2,7 +2,7 @@
 - 👀 I’m interested in python and machine learning
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on my pong project
-- 📫 How to reach me mailto:andrewpeng125@gmail.com
+- 📫 How to reach me andrewpeng125@gmail.com
 
 
 <!---
