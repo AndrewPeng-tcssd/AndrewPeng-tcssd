@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @AndrewPeng-tcssd
-- 👀 I’m interested in machine learning
 - 🌱 I’m currently learning python and HTML/JS/CSS
 - 💞️ I’m looking to collaborate on my pong project
 - 📫 How to reach me andrewpeng125@gmail.com
