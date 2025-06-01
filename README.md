@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @AndrewPeng-tcssd
 - 🌱 I’m currently learning python and HTML/JS/CSS
-- 💞️ I’m looking to collaborate on my pong project
 - 📫 How to reach me andrewpeng125@gmail.com
 - I am a student of Coach Elian https://github.com/elianrenteria at The Coder School
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AndrewPeng-tcssd&theme=algolia)
